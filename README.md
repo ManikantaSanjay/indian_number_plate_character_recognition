@@ -18,10 +18,10 @@ II> Find contours and try to draw rectangles around each character of the number
 
 III> The model training is done on a dataset containing 36 classes,which are 'A'-'Z' and 0-9 using a CNN model architecture with softmax activation function.
 
-IV> Later,the model prediction is compared with the characters in the number plate.
+Finally, the model prediction is compared with the characters in the number plate.
 
 ## Outcome:
-94% accuracy is achieved using a small number of epochs run.
+94% accuracy is achieved using a small number of epochs.
 
 ## Creators:
 
