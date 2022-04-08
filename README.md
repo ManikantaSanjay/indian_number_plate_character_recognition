@@ -23,6 +23,13 @@ Finally, the model prediction is compared with the characters in the number plat
 ## Outcome:
 94% accuracy is achieved using a small number of epochs.
 
+## Glimpse of the Project:
+
+![number_plate_recognition](https://user-images.githubusercontent.com/53619729/162380150-1747663c-5105-472b-b1ed-be76c6cc9ad1.gif)
+
+
+
+
 ## Creators:
 
 * V Manikanta Sanjay 
