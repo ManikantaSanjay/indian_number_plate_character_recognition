@@ -8,7 +8,7 @@
 </div>
 
 
-## About
+## 🧐  About
 
 This model involves performing 4 tasks.
 
@@ -19,7 +19,7 @@ This model involves performing 4 tasks.
 
 
 
-## Python Libraries Used
+## 💻 Built With
 
 - Keras
 - Tensorflow
