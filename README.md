@@ -25,6 +25,8 @@ This model involves performing 4 tasks.
 - Tensorflow
 - Matplotlib
 - OpenCV
+- NumPy
+- Pandas
 
  
 ## Result
@@ -41,8 +43,8 @@ This model involves performing 4 tasks.
 ## Creators
 
 * V Manikanta Sanjay 
-* Sri Hari KR. Reach out on [LinkedIn](https://www.linkedin.com/in/sri-hari-k-r-6b04a7176/)
-
+* Sri Hari KR. ➡️ [LinkedIn](https://www.linkedin.com/in/sri-hari-k-r-6b04a7176/) 
+* Suyog P. ➡️ [LinkedIn](https://www.linkedin.com/in/suyog-p-a85aa51aa/)
 ## License
 
 [MIT](https://github.com/ManikantaSanjay/indian_number_plate_character_recognition/blob/master/LICENSE)
