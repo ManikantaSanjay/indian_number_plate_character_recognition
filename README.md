@@ -2,7 +2,7 @@
 <h1> Automatic Number Plate Recognition (ANPR) for Indian Vehicles </h1>
 </div>
 
-## Description:
+## About
 
 This model involves performing 4 tasks.
 
@@ -11,7 +11,7 @@ This model involves performing 4 tasks.
 - The model training is done on a dataset containing 36 classes,which are 'A'-'Z' and 0-9 using a CNN model architecture.
 - Finally, the model prediction is compared with the characters in the number plate.
 
-## Python Libraries Used:
+## Python Libraries Used
 
 - Keras
 - Tensorflow
@@ -19,10 +19,10 @@ This model involves performing 4 tasks.
 - OpenCV
 
  
-## Result:
+## Result
 94% accuracy was achieved on the test dataset.
 
-## Demonstration:
+## Demonstration
 
 
 ![number_plate_recognition](https://user-images.githubusercontent.com/53619729/162380150-1747663c-5105-472b-b1ed-be76c6cc9ad1.gif)
@@ -30,7 +30,7 @@ This model involves performing 4 tasks.
 
 
 
-## Creators:
+## Creators
 
 * V Manikanta Sanjay 
 * Sri Hari KR 
