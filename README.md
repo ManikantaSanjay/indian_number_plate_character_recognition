@@ -1,29 +1,29 @@
-# indian_number_plate_character_recognition
-## Libraries used:
-
-i>Keras
-
-ii>Tensorflow
-
-iii>Matplotlib
-
-iv>OpenCV
+<div align="Center">
+<h1> Automatic Number Plate Recognition (ANPR) for Indian Vehicles </h1>
+</div>
 
 ## Description:
-This model involves performing 3 tasks.
 
-I> Extracting number plate from the image of the vehicle.
+This model involves performing 4 tasks.
 
-II> Find contours and try to draw rectangles around each character of the number plate.
+- Extracting number plate from the image of the vehicle.
+- Find contours and try to draw rectangles around each character of the number plate.
+- The model training is done on a dataset containing 36 classes,which are 'A'-'Z' and 0-9 using a CNN model architecture.
+- Finally, the model prediction is compared with the characters in the number plate.
 
-III> The model training is done on a dataset containing 36 classes,which are 'A'-'Z' and 0-9 using a CNN model architecture with softmax activation function.
+## Python Libraries Used:
 
-Finally, the model prediction is compared with the characters in the number plate.
+- Keras
+- Tensorflow
+- Matplotlib
+- OpenCV
 
-## Outcome:
-94% accuracy is achieved using a small number of epochs.
+ 
+## Result:
+94% accuracy was achieved on the test dataset.
 
-## Glimpse of the Project:
+## Demonstration:
+
 
 ![number_plate_recognition](https://user-images.githubusercontent.com/53619729/162380150-1747663c-5105-472b-b1ed-be76c6cc9ad1.gif)
 
