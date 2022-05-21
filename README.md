@@ -34,3 +34,7 @@ This model involves performing 4 tasks.
 
 * V Manikanta Sanjay 
 * Sri Hari KR 
+
+## License
+
+[MIT](https://github.com/ManikantaSanjay/indian_number_plate_character_recognition/blob/master/LICENSE)
