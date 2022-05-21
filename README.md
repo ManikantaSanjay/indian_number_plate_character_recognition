@@ -33,7 +33,7 @@ This model involves performing 4 tasks.
 ## Creators
 
 * V Manikanta Sanjay 
-* Sri Hari KR 
+* Sri Hari KR [LinkedIn](https://www.linkedin.com/in/sri-hari-k-r-6b04a7176/)
 
 ## License
 
